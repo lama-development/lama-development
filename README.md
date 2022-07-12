@@ -1,7 +1,7 @@
 # Hello there, I'm Lama 👋 
 
 My nickname is ItzEndah, but I’m also known as Lama.  
-I enjoy coding simple things. I know a bit of C, C#, Lua, Javascript, and Python. I’m also keen on design and find it particularly relaxing and inspirational.  
+I enjoy coding simple things. I know a bit of C, C#, Lua, Javascript, and Python. I’m also keen on design and find it particularly relaxing and inspirational. Some tools I use for that are Figma and Protopie.  
  
 Check out my YouTube channel: [Boop](https://www.youtube.com/channel/UCCD22Gp8GsSq01PHHKFnSZw)  
 Reach out to me on discord: **Lama#9612** 
