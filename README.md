@@ -10,9 +10,10 @@ I'm a developer based in Italy who enjoys coding simple things. I know a bit of 
 | Platform  | Link |
 | ------------- | ------------- |
 | Discord | [Click here](https://discordapp.com/users/546748662361882634) |
-| GitHub | [Click here](https://github.com/ItzEndah) |
 | Website | [Click here](https://sites.google.com/view/ec-rp) |
 | YouTube | [Click here](https://www.youtube.com/channel/UCCD22Gp8GsSq01PHHKFnSZw) |
+| Cfx.re | [Click here](https://forum.cfx.re/u/itzendah) | 
+| GitHub | [Click here](https://github.com/ItzEndah) |
 
 
 ### My stats 📊
