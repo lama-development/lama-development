@@ -1,3 +1,6 @@
+![Frame_1-removebg-preview](https://user-images.githubusercontent.com/79053058/185082818-85a195a3-b3c4-416f-b3c0-19b51c39bb4a.png)
+
+
 # Ciao, I'm Lama 👋 
 My nickname is ItzEndah, but I’m also known as Lama.  
 I'm a developer based in Italy who enjoys coding simple things. I know a bit of C, C#, Lua, Javascript, and Python. I’m also keen on design and find it particularly relaxing and inspirational. 
