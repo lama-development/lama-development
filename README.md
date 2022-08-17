@@ -1,5 +1,5 @@
 # Ciao, I'm Lama 👋 
-![Frame_1-removebg-preview](https://user-images.githubusercontent.com/79053058/185082818-85a195a3-b3c4-416f-b3c0-19b51c39bb4a.png)
+![banner](https://user-images.githubusercontent.com/79053058/185082818-85a195a3-b3c4-416f-b3c0-19b51c39bb4a.png)
 
 ### About me ℹ️
 My nickname is ItzEndah, but I’m also known as Lama.  
