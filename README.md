@@ -20,3 +20,4 @@ I'm a developer based in Italy who enjoys coding simple things. I know a bit of 
 ![](https://komarev.com/ghpvc/?username=ItzEndah&color=5865F2)  
 ![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzEndah&show_icons=true&bg_color=00000000&border_color=d0d7de&title_color=5865F2&icon_color=5865F2&text_color=8e97a1)  
 ![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzEndah&show_icons=true&bg_color=00000000&border_color=d0d7de&title_color=5865F2&text_color=8e97a1&layout=compact&card_width=446)
+![](https://hit.yhype.me/github/profile?user_id=79053058)
