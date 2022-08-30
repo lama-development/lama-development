@@ -3,7 +3,7 @@
 
 ## About me ℹ️
 My nickname is ItzEndah, but I’m also known as Lama.  
-I'm a developer based in Italy who enjoys coding simple things. I know a bit of C, C#, Lua, Javascript, and Python. I’m also keen on design and find it particularly relaxing and inspirational. 
+I'm a developer based in Italy 🇮🇹 who enjoys coding but also graphic design. I know a bit of C, C#, Lua, Javascript, and Python. 
 
 
 ## Get in touch 💬
