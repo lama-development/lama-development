@@ -33,6 +33,6 @@ I'm a developer based in Italy 🇮🇹 who enjoys coding but also graphic desig
 
 ## My stats 📊
 ![](https://komarev.com/ghpvc/?username=ItzEndah&color=5865F2)  
-![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzEndah&show_icons=true&title_color=6e9cee&icon_color=6e9cee&text_color=8e97a1)  
-![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzEndah&show_icons=true&title_color=6e9cee&text_color=8e97a1&layout=compact&card_width=446)  
+![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzEndah&bg_color=1a1b27&border_color=1a1b27&show_icons=true&title_color=6e9cee&icon_color=6e9cee&text_color=8e97a1)  
+![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzEndah&bg_color=1a1b27&border_color=1a1b27&show_icons=true&title_color=6e9cee&text_color=8e97a1&layout=compact&card_width=446)  
 ![](https://hit.yhype.me/github/profile?user_id=79053058)
