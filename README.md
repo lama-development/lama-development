@@ -9,8 +9,8 @@ I'm a developer based in Italy 🇮🇹 who enjoys coding but also graphic desig
 ## Get in touch 💬
 | Platform  | Link |
 | ------------- | ------------- |
-| Discord | [Click here](https://discordapp.com/users/546748662361882634) |
 | Website | [Click here](https://lama.framer.website/) |
+| Discord | [Click here](https://discordapp.com/users/546748662361882634) |
 | YouTube | [Click here](https://www.youtube.com/channel/UCCD22Gp8GsSq01PHHKFnSZw) |
 | Cfx.re | [Click here](https://forum.cfx.re/u/itzendah) | 
 | GitHub | [Click here](https://github.com/ItzEndah) |
