@@ -6,6 +6,16 @@ My nickname is ItzEndah, but I’m also known as Lama.
 I'm a developer based in Italy 🇮🇹 who enjoys coding but also graphic design. 
 
 
+## Get in touch 💬
+| Platform  | Link |
+| ------------- | ------------- |
+| Discord | [Click here](https://discordapp.com/users/546748662361882634) |
+| Website | [Click here](https://lama.framer.website/) |
+| YouTube | [Click here](https://www.youtube.com/channel/UCCD22Gp8GsSq01PHHKFnSZw) |
+| Cfx.re | [Click here](https://forum.cfx.re/u/itzendah) | 
+| GitHub | [Click here](https://github.com/ItzEndah) |
+
+
 ## Skills 💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -19,16 +29,6 @@ I'm a developer based in Italy 🇮🇹 who enjoys coding but also graphic desig
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-
-## Get in touch 💬
-| Platform  | Link |
-| ------------- | ------------- |
-| Discord | [Click here](https://discordapp.com/users/546748662361882634) |
-| Website | [Click here](https://sites.google.com/view/ec-rp) |
-| YouTube | [Click here](https://www.youtube.com/channel/UCCD22Gp8GsSq01PHHKFnSZw) |
-| Cfx.re | [Click here](https://forum.cfx.re/u/itzendah) | 
-| GitHub | [Click here](https://github.com/ItzEndah) |
 
 
 ## My stats 📊
