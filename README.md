@@ -10,8 +10,8 @@ Lama is a developer and graphic designer based in Novara, Italy. 🇮🇹
 | Website | [Click here](https://lama.framer.website/) |
 | Discord | [Click here](https://discordapp.com/users/546748662361882634) |
 | YouTube | [Click here](https://www.youtube.com/channel/UCCD22Gp8GsSq01PHHKFnSZw) |
-| Cfx.re | [Click here](https://forum.cfx.re/u/itzendah) | 
-| GitHub | [Click here](https://github.com/ItzEndah) |
+| Cfx.re | [Click here](https://forum.cfx.re/u/lama-development) | 
+| GitHub | [Click here](https://github.com/lama-development) |
 
 
 ## Skills 💻
