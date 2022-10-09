@@ -2,9 +2,7 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/79053058/194766141-4be076e3-ce53-4f26-a64f-0e31ce7b9435.png)
 
 ## About me ℹ️
-My nickname is ItzEndah, but I’m also known as Lama.  
-I'm a developer based in Italy 🇮🇹 who enjoys coding but also graphic design. 
-
+Lama is a developer and graphic designer based in Novara, Italy. 🇮🇹  
 
 ## Get in touch 💬
 | Platform  | Link |
