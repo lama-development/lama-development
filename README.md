@@ -1,5 +1,5 @@
 # Ciao, I'm Lama 👋 
-![GitHub Banner](https://user-images.githubusercontent.com/79053058/194766141-4be076e3-ce53-4f26-a64f-0e31ce7b9435.png)
+![github-banner](https://user-images.githubusercontent.com/79053058/196245716-77c6b27a-1f25-4e52-85a7-6b213c586be6.png)
 
 ## About me ℹ️
 Lama is a developer and graphic designer based in Novara, Italy. 🇮🇹  
