@@ -48,6 +48,6 @@ Lama is a developer and graphic designer based in Novara, Italy. 🇮🇹
 
 ## My stats 📊
 ![](https://komarev.com/ghpvc/?username=lama-development&color=5865F2)  
-![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=lama-development&bg_color=1a1b27&border_color=1a1b27&show_icons=true&title_color=6e9cee&icon_color=6e9cee&text_color=8e97a1)  
-![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-development&bg_color=1a1b27&border_color=1a1b27&show_icons=true&title_color=6e9cee&text_color=8e97a1&layout=compact&card_width=446)  
+![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=lama-development&show_icons=true&theme=transparent)  
+![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-development&show_icons=true&theme=transparent&layout=compact)
 ![](https://hit.yhype.me/github/profile?user_id=79053058)
