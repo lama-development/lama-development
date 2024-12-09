@@ -2,7 +2,7 @@
 ![github-banner](https://user-images.githubusercontent.com/79053058/196245716-77c6b27a-1f25-4e52-85a7-6b213c586be6.png)
 
 ## About me ℹ️
-Lama is a developer and graphic designer based in Novara, Italy. 🇮🇹  
+Lama is a developer and graphic designer based in Italy. 🇮🇹  
 
 ## Get in touch 💬
 | Platform  | Link |
