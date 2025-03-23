@@ -1,9 +1,7 @@
-# Ciao 👋 
-![github-banner](https://user-images.githubusercontent.com/79053058/196245716-77c6b27a-1f25-4e52-85a7-6b213c586be6.png)
-
+![banner](https://github.com/user-attachments/assets/f1419377-1129-454e-905b-48d30263c966)
 
 ## About 👤
-I am a freelance web developer and web designer based in Italy. 🇮🇹  
+Ciao! 👋 I am a freelance web developer and web designer based in Italy. 🇮🇹  
 
 ## Get in touch 💬
 | Platform  | Link |
