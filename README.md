@@ -1,8 +1,9 @@
 # Ciao 👋 
 ![github-banner](https://user-images.githubusercontent.com/79053058/196245716-77c6b27a-1f25-4e52-85a7-6b213c586be6.png)
 
-## About me ℹ️
-Lama is a developer and graphic designer based in Italy. 🇮🇹  
+
+## About 👤
+I am a freelance web developer and web designer based in Italy. 🇮🇹  
 
 ## Get in touch 💬
 | Platform  | Link |
@@ -35,7 +36,7 @@ Lama is a developer and graphic designer based in Italy. 🇮🇹
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## My stats 📊
-![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=lama-development&show_icons=true&theme=transparent)  
-![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-development&show_icons=true&theme=transparent)  
+![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-development&show_icons=true&layout=donut&theme=transparent)  
+![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=lama-development&show_icons=true&rank_icon=github&theme=transparent)  
 ![](https://komarev.com/ghpvc/?username=lama-development&color=1e90ff)  
 ![](https://hit.yhype.me/github/profile?user_id=79053058)
