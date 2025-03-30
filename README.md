@@ -1,6 +1,6 @@
 ![github-banner](https://github.com/user-attachments/assets/d53acb0b-3574-43f2-a7d4-e296d9dde075)
 
-## Get in touch 💬
+## Get in Touch 💬
 | Platform | Link |
 | --- | --- |
 | Website | [davidelamarca.com](https://davidelamarca.com/) |
@@ -10,7 +10,7 @@
 | YouTube | [@lama-yt](https://youtube.com/@lama-yt) |
 | Dribbble | [lama-designs](https://dribbble.com/lama-designs)
 
-## Skills 💻
+## Tech Stack 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +27,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## My stats 📊
+## Stats 📊
 ![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-development&show_icons=true&layout=donut&theme=default)  
 ![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=lama-development&show_icons=true&rank_icon=github&theme=default)  
 ![](https://komarev.com/ghpvc/?username=lama-development&color=1e90ff)  
