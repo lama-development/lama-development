@@ -1,11 +1,8 @@
-![banner](https://github.com/user-attachments/assets/f1419377-1129-454e-905b-48d30263c966)
-
-## About 👤
-Ciao! 👋 I am a freelance web developer and web designer based in Italy. 🇮🇹  
+![github-banner](https://github.com/user-attachments/assets/d53acb0b-3574-43f2-a7d4-e296d9dde075)
 
 ## Get in touch 💬
-| Platform  | Link |
-| ------------- | ------------- |
+| Platform | Link |
+| --- | --- |
 | Website | [davidelamarca.com](https://davidelamarca.com/) |
 | Email | [info@davidelamarca.com](mailto:info@davidelamarca.com) |
 | LinkedIn | [Davide La Marca](https://www.linkedin.com/in/davide-la-marca-178241254/) 
