@@ -28,7 +28,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Stats 📊
-![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-development&show_icons=true&layout=donut&theme=default)  
-![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=lama-development&show_icons=true&rank_icon=github&theme=default)  
+[![Lama's Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-development&show_icons=true&layout=donut&theme=default#gh-light-mode-only)](https://github.com/lama-development/github-readme-stats#gh-light-mode-only)  
+[![Lama's Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-development&show_icons=true&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/lama-development/github-readme-stats#gh-dark-mode-only)  
+[![Lama's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lama-development&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/lama-development/github-readme-stats#gh-light-mode-only)  
+[![Lama's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lama-development&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/lama-development/github-readme-stats#gh-dark-mode-only)  
 ![](https://komarev.com/ghpvc/?username=lama-development&color=1e90ff)  
 ![](https://hit.yhype.me/github/profile?user_id=79053058)
