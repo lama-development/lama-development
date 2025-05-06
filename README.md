@@ -6,7 +6,6 @@
 | Website | [davidelamarca.com](https://davidelamarca.com/) |
 | Email | [info@davidelamarca.com](mailto:info@davidelamarca.com) |
 | LinkedIn | [Davide La Marca](https://www.linkedin.com/in/davide-la-marca-178241254/) 
-| Discord | [Lama Development](https://discord.gg/etkAKTw3M7) |
 | YouTube | [@lama-yt](https://youtube.com/@lama-yt) |
 | Dribbble | [lama-designs](https://dribbble.com/lama-designs)
 
@@ -18,10 +17,11 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-  
+
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
