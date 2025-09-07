@@ -1,6 +1,6 @@
 <img width="1000" height="128" alt="github banner" src="https://github.com/user-attachments/assets/02f2abb1-b493-4144-afd2-ba75b356d5be" />
 
-## Get in Touch 💬![Uploading banner-github.png…]()
+## Get in Touch 💬
 
 | Platform | Link |
 | :--- | :--- |
