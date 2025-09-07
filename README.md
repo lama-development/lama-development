@@ -1,6 +1,7 @@
-![github-banner](https://github.com/user-attachments/assets/613474a5-aba5-423e-a677-45c003122b05)
+<img width="1000" height="128" alt="github banner" src="https://github.com/user-attachments/assets/02f2abb1-b493-4144-afd2-ba75b356d5be" />
 
-## Get in Touch 💬
+## Get in Touch 💬![Uploading banner-github.png…]()
+
 | Platform | Link |
 | :--- | :--- |
 | Website | [davidelamarca.com](https://davidelamarca.com/) |
