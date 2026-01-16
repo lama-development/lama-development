@@ -1,6 +1,6 @@
 <img width="1000" height="128" alt="github banner" src="https://github.com/user-attachments/assets/02f2abb1-b493-4144-afd2-ba75b356d5be" />
 
-## Get in Touch 💬
+## Get in touch 💬
 
 | Platform | Link |
 | :--- | :--- |
@@ -10,7 +10,7 @@
 | YouTube | [@lama-yt](https://youtube.com/@lama-yt) |
 | Dribbble | [lama-designs](https://dribbble.com/lama-designs)
 
-## Tech Stack 💻
+## Tech stack 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,7 +31,5 @@
 ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 
 ## Stats 📊
-![Lama's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lama-development&show_icons=true&custom_title=Top+Languages&layout=compact&border_radius=0&border_color=3c454d&text_color=fff&theme=dark&card_width=467)  
-![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=lama-development&show_icons=true&rank_icon=github&custom_title=GitHub+Stats&icon_color=075e9f&border_radius=0&border_color=3c454d&text_color=fff&theme=dark)  
 ![](https://komarev.com/ghpvc/?username=lama-development&color=075e9f&style=for-the-badge)
 ![](https://hit.yhype.me/github/profile?user_id=79053058)
